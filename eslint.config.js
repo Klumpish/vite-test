@@ -2,7 +2,7 @@ import prettier from 'eslint-plugin-prettier';
 
 export default [
   {
-    files: ['**/*.js', '**/*.jsx', '**/*.ts', '**/*.tsx'],
+    files: ['**/*.js', '**/*.jsx', '**/*.ts', '**/*.tsx', '**/*.html', '**/*.scss'],
     languageOptions: {
       ecmaVersion: 2021,
       sourceType: 'module',
