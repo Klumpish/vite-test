@@ -6,8 +6,9 @@ after clone
 
 - new test - "new vite and hooks folder"
   -done in bash terminal -
-
--git init
+  -npm create vite@latest
+  -npm install sass
+  -git init
 
 <!-- has to been done. -->
 
