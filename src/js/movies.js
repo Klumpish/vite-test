@@ -1,4 +1,4 @@
-import movies from '../movies.json';
+import movies from '../assets/data/movies.json';
 
 // get a reference to my HTML container
 
